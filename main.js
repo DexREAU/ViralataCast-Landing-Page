@@ -12,7 +12,7 @@ function success() {
 
     button.innerText = "OBRIGADO!"
 
-    inputs.value = ""
+    input.value = ""
 
 }
 
