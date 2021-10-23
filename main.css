@@ -198,7 +198,7 @@ header {
 
 .logo_final {
     display: block;
-    margin: 10vw auto 5rem auto;
+    margin: 10vw auto calc(2rem + 4vw) auto;
     width: clamp(15rem, 75vw, 38rem);
 }
 
