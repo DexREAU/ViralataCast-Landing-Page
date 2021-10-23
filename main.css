@@ -178,7 +178,7 @@ header {
     justify-content: center;
     text-transform: uppercase;
     font-weight: 900;
-    margin: 6rem 0;
+    margin: 6rem 0 0 0;
 } .bullets article {
     margin-bottom: 3rem;
     max-width: 32rem;
@@ -198,8 +198,8 @@ header {
 
 .logo_final {
     display: block;
-    margin: 10vw auto 10vw auto;
-    width: clamp(15rem, 70vw, 38rem);
+    margin: 10vw auto 5rem auto;
+    width: clamp(15rem, 75vw, 38rem);
 }
 
 .bottom_menu {
