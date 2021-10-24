@@ -221,7 +221,7 @@ header {
 }
 
 ::-webkit-scrollbar {
-    width: 6px;
+    width: 8px;
   }
   
   /* Track */
@@ -231,14 +231,8 @@ header {
   
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: #ffffff;
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
     background: #00eeef;
   }
-
 
 
 
